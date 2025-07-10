@@ -8,7 +8,7 @@ This document provides a comprehensive analysis of the Python-JavaScript full-st
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        FULL STACK APP ARCHITECTURE             │
+│                        FULL STACK APP ARCHITECTURE              │
 └─────────────────────────────────────────────────────────────────┘
 
                     ┌─────────────────────┐
